@@ -1,3 +1,7 @@
+treine_ds:
+    resource: "@TreineDsBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: @AppBundle/Controller/
     type:     annotation
